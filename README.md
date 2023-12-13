@@ -17,10 +17,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doniyorsamandarov&show_icons=true&locale=en&layout=compact" alt="doniyorsamandarov" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniyorsamandarov&show_icons=true&locale=en" alt="doniyorsamandarov" /></p><br?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="taxirov" /></p><br?
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniyorsamandarov&" alt="doniyorsamandarov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="taxirov" /></p>
