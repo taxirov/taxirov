@@ -19,23 +19,38 @@
 <h3 align="left">Skills:</h3>
 <table border="0">
  <tr>
-    <td  border="0"><b>Backend</b></td>
-    <td  border="0"><b>Title 2</b></td>
+    <td  border="0"><b>Languages</b></td>
+    <td  border="0"><b>Tools</b></td>
  </tr>
  <tr>
     <td  border="0">
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
      </a>
     </td>
-    <td  border="0">Lorem ipsum ...</td>
+    <td  border="0">
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,git,postman,vscode,figma," />
+     </a>
+    </td>
+ </tr>
+ <tr>
+    <td  border="0"><b>Backend</b></td>
+    <td  border="0"><b>Frontend</b></td>
+ </tr>
+  <tr>
+    <td  border="0">
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+     </a>
+    </td>
+    <td  border="0">
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte" />
+     </a>
+    </td>
  </tr>
 </table>
-<p align="left" s>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
