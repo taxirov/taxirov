@@ -13,9 +13,6 @@
 - 📫 How to reach me **saadtakhirwork@gmail.com**
 
 
-<p align="left">
-</p>
-
 <h3 align="left">Skills:</h3>
 <table border="0">
  <tr>
@@ -30,7 +27,7 @@
     </td>
     <td  border="0">
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,git,postman,vscode,figma," />
+      <img src="https://skillicons.dev/icons?i=bash,git,postman,vscode,figma,vercel" />
      </a>
     </td>
  </tr>
@@ -51,6 +48,11 @@
     </td>
  </tr>
 </table>
+
+<h3 align="left">Socials:</h3>
+<a href="https://instagram.com/saad_takhir">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
