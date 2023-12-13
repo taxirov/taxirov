@@ -53,6 +53,9 @@
 <a href="https://instagram.com/saad_takhir">
       <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+<a href="https://github.com/taxirov">
+     <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
