@@ -56,7 +56,22 @@
 <a href="https://github.com/taxirov">
      <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
+<a href="https://dev.to/taxirov">
+     <img src="https://skillicons.dev/icons?i=devto" />
+</a>
+<a href="https://figma.com/@taxirov">
+     <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://linkedin.com/in/taxirov">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://replit.com/@taxirov">
+     <img src="https://skillicons.dev/icons?i=replit" />
+</a>
+<a href="https://twitter.com/saad_takhir">
+     <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="taxirov" /></p><br?
