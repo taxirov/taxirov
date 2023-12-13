@@ -19,12 +19,16 @@
 <h3 align="left">Skills:</h3>
 <table border="0">
  <tr>
-    <td><b>Title</b></td>
-    <td><b>Title 2</b></td>
+    <td  border="0"><b>Backend</b></td>
+    <td  border="0"><b>Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td  border="0">
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+     </a>
+    </td>
+    <td  border="0">Lorem ipsum ...</td>
  </tr>
 </table>
 <p align="left" s>
