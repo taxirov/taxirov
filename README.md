@@ -16,14 +16,24 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Skills:</h3>
+<table border="0">
+ <tr>
+    <td><b>Title</b></td>
+    <td><b>Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+<p align="left" s>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="taxirov" /></p><br?
 
