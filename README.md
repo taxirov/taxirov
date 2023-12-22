@@ -38,7 +38,7 @@
   <tr>
     <td  border="0">
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,prisma,postgres,mongodb" />
      </a>
     </td>
     <td  border="0">
