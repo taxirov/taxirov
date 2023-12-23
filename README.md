@@ -11,60 +11,36 @@
 - 💬 Ask me about **JavaScript, TypeScript**
 - 📫 How to reach me: **[saadtakhirwork@gmail.com](mailto:saadtakhirwork@gmail.com)**
 
-<!-- Skills Section -->
-<h3 align="left">Skills:</h3>
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
-      </a>
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,git,postman,vscode,figma,vercel" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><b>Frontend</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,prisma,postgres,mongodb" />
-      </a>
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte" />
-      </a>
-    </td>
-  </tr>
-</table>
+## Skills:
 
-<!-- Socials Section -->
-<h3 align="left">Connect with me:</h3>
-<a href="https://instagram.com/saad_takhir">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://github.com/taxirov">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://dev.to/taxirov">
-  <img src="https://skillicons.dev/icons?i=devto" />
-</a>
-<!-- Add more social links as needed -->
+### Languages:
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp)
+
+### Tools:
+![Bash](https://skillicons.dev/icons?i=bash) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Vercel](https://skillicons.dev/icons?i=vercel)
+
+### Backend:
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Frontend:
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Svelte](https://skillicons.dev/icons?i=svelte)
+
+## Socials:
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/saad_takhir)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/taxirov)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/taxirov)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/@taxirov)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/taxirov)
+[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@taxirov)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/saad_takhir)
+
+
 
 <!-- GitHub Stats Section -->
 <div align="center">
   <h3>GitHub Stats:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" /></p>
+  <p><img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <p><img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+  <p><img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" /></p>
 </div>
