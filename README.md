@@ -1,79 +1,38 @@
+# Hi there! 👋 I'm Saad Takhirr, a Fullstack Developer from Uzbekistan.
 
-
-<h1 align="center">Hi 👋, I'm Saad Takhirr</h1>
-<h3 align="center">Fullstack Developer from Uzbekistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taxirov&label=Profile%20views&color=0e75b6&style=flat" alt="taxirov" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=taxirov&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Cafe Website**
+- 🌱 I’m currently learning **Node.js, Websocket, Docker, and more**
+- 💬 Ask me about **JavaScript, TypeScript**
+- 📫 How to reach me: [saadtakhirwork@gmail.com](mailto:saadtakhirwork@gmail.com)
 
-- 🌱 I’m currently learning **Nodejs, Websocket, Docker and others**
+## Skills:
 
-- 💬 Ask me about **Javascript, Typescript**
+### Languages:
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp)
 
-- 📫 How to reach me **saadtakhirwork@gmail.com**
+### Tools:
+![Bash](https://skillicons.dev/icons?i=bash) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
+### Backend:
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-<h3 align="left">Skills:</h3>
-<table border="0">
- <tr>
-    <td  border="0"><b>Languages</b></td>
-    <td  border="0"><b>Tools</b></td>
- </tr>
- <tr>
-    <td  border="0">
-     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
-     </a>
-    </td>
-    <td  border="0">
-     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,git,postman,vscode,figma,vercel" />
-     </a>
-    </td>
- </tr>
- <tr>
-    <td  border="0"><b>Backend</b></td>
-    <td  border="0"><b>Frontend</b></td>
- </tr>
-  <tr>
-    <td  border="0">
-     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,prisma,postgres,mongodb" />
-     </a>
-    </td>
-    <td  border="0">
-     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte" />
-     </a>
-    </td>
- </tr>
-</table>
+### Frontend:
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Svelte](https://skillicons.dev/icons?i=svelte)
 
-<h3 align="left">Socials:</h3>
-<a href="https://instagram.com/saad_takhir">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://github.com/taxirov">
-     <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://dev.to/taxirov">
-     <img src="https://skillicons.dev/icons?i=devto" />
-</a>
-<a href="https://figma.com/@taxirov">
-     <img src="https://skillicons.dev/icons?i=figma" />
-</a>
-<a href="https://linkedin.com/in/taxirov">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://replit.com/@taxirov">
-     <img src="https://skillicons.dev/icons?i=replit" />
-</a>
-<a href="https://twitter.com/saad_takhir">
-     <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+## Socials:
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/saad_takhir)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/taxirov)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/taxirov)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/@taxirov)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/taxirov)
+[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@taxirov)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/saad_takhir)
+
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="taxirov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="taxirov" /></p><br?
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="taxirov" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taxirov)
