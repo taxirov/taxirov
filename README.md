@@ -38,9 +38,9 @@
 
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<div>
   <h3>GitHub Stats:</h3>
-  <p><img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-  <p><img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-  <p><img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" /></p>
+  <img style="width:100%;"src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" />
 </div>
