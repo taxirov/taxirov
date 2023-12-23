@@ -62,12 +62,9 @@
 <!-- Add more social links as needed -->
 
 <!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <h3>GitHub Stats:</h3>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" /></p>
+</div>
