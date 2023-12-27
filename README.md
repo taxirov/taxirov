@@ -6,7 +6,7 @@
 </p>
 
 <!-- About Me Section -->
-- 🔭 I’m currently working on **Cafe Website**
+- 🔭 I’m currently working on **Cafe Website, Hamroh Taxi**
 - 🌱 I’m currently learning **Nodejs, Websocket, Docker, and more**
 - 💬 Ask me about **JavaScript, TypeScript**
 - 📫 How to reach me: **[saadtakhirwork@gmail.com](mailto:saadtakhirwork@gmail.com)**
@@ -38,9 +38,6 @@
 
 
 <!-- GitHub Stats Section -->
-<div>
-  <h3>GitHub Stats:</h3>
-  <img style="width:100%;"src="https://github-readme-stats.vercel.app/api?username=taxirov&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taxirov&" alt="GitHub Streak" />
-</div>
+## GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taxirov&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%;" />
+
