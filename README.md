@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! 👋, I'm Saad Takhirr</h1>
+<h1 align="center">Hi there! 👋, I'm Saad Takhir</h1>
 <h3 align="center">Fullstack Developer from Uzbekistan</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=taxirov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **Cafe Website, Hamroh Taxi**
 - 🌱 I’m currently learning **Nodejs, Websocket, Docker, and more**
 - 💬 Ask me about **JavaScript, TypeScript**
+- 📞 My phone number +998 90 578 92 04
 - 📫 How to reach me: **[saadtakhirwork@gmail.com](mailto:saadtakhirwork@gmail.com)**
 
 ## Skills:
